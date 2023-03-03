@@ -5,7 +5,7 @@ from PIL import Image
 import keyboard
 from pytesseract import pytesseract
 import webbrowser
-
+# hello there my name is skanda 
 print("Hello, welcome to pytype. A python bot which does your typing test faster than you.")
 # speed = input("What speed would you like to see (100 ~ 250 words per minute")
 # test_time = input("How many seconds do you want the test duration to be? (15s, 30s, 60s, 120s")
